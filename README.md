@@ -1,5 +1,7 @@
 # SGL
 
+This is not my code. I am trying to use it for a course project in ECE 269. - Chaitanya Patil
+
 Code accompanying the paper  
 ***Small Group Learning, with Application to Neural Architecture Search*** [paper]()  
 <!-- Xiangning Chen, Ruochen Wang, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh -->
