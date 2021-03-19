@@ -1,0 +1,3 @@
+2021-03-18 16:54:45,221 gpu device = 0
+2021-03-18 16:54:45,222 args = Namespace(arch='PCDARTS', auxiliary=True, auxiliary_weight=0.4, batch_size=96, cutout=True, cutout_length=16, data='../../data', drop_path_prob=0.3, epochs=600, gpu=0, grad_clip=5, init_channels=36, layers=20, learning_rate=0.025, model_path='saved_models', momentum=0.9, report_freq=50, save='eval-xxxcsp-20210318-165445', seed=3, set='cifar100', weight_decay=0.0003)
+2021-03-18 16:54:51,297 param size = 3.686608MB
